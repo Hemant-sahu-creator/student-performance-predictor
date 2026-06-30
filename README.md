@@ -132,7 +132,7 @@ Returns model status.
 **Hemant Sahu**  
 Python Developer | Data Analyst | ML Engineer  
 📧 hs948316@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/hemant-sahu) | [GitHub](https://github.com/Hemant-sahu)
+🔗 [LinkedIn](www.linkedin.com/in/mr-hemant-sahu-0032b8301) | [GitHub]([https://github.com/Hemant-sahu](https://github.com/Hemant-sahu-creator))
 
 ---
 
